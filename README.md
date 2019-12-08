@@ -1,5 +1,5 @@
 **TASK #1:**  
-Create a simple portfolio Website(Not more than 2-3 pages). 
+Create a simple portfolio Website(Not more than 1-2 pages). 
 You can add some images,some text describing yourself,your hobbies / passions or your goal in life. 
 
   
