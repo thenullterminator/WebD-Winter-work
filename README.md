@@ -5,4 +5,4 @@ You can add some images,some text describing yourself,your hobbies / passions or
   
 **_NOTE:_**  
 Create a new folder with your roll as name inside the respective task folder and add all your files in it and send a PR.
-Directly uploading files will not be considered.
+
